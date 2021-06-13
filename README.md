@@ -1,3 +1,4 @@
+Project belajar full stack laravel vue js (toko online) 
 # majstore
 
 ## Project setup
